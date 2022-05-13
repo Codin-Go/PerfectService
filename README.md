@@ -36,13 +36,12 @@ Chapter 2. Example
 
 ## Lecture : What we can learn?
 
-. Game . TapGesture . (RoundedRectangle, emoji)
-
-. struct . (View, some, body, ZStack HStack, Bool, @State, Array, ForEach, \.self, spacer, padding, systemName, LazyVGrid, GridItem, aspectRatio, ScrollView,
-. meaning . (Option + Click, 0..<6
-. word . (immutable, snippet, infer,
-. whole . (readable, simple, short,
-. Model . (MVVM Model-View-VieModel,
+. Game . TapGesture . (RoundedRectangle, emoji) <br> 
+. struct . (View, some, body, ZStack HStack, Bool, @State, Array, ForEach, \.self, spacer, padding, systemName, LazyVGrid, GridItem, aspectRatio, ScrollView, <br> 
+. meaning . (Option + Click, 0..<6 <br> 
+. word . (immutable, snippet, infer, <br> 
+. whole . (readable, simple, short, <br> 
+. Model . (MVVM Model-View-VieModel, <br> 
 
 
 
