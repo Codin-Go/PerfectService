@@ -57,11 +57,11 @@ Chapter 2. Example
 . types: [simple view], [combine view], [bag view]
 
 ```swift 
-   struct ContentView: View {
-        var body: some View {
-            Text("Hello World!")
-        }
-    }
+struct ContentView: View {
+   var body: some View {
+      Text("Hello World!")
+   }
+}
 ```
 
  
