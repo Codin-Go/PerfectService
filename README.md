@@ -43,6 +43,7 @@
 .Service.App <br> 
 ..SeeCode <br> 
 ...Standford <br> 
+....Index QA <br> 
 ....SeeCode <br> 
 ....ShareSummary <br> 
 
@@ -73,6 +74,8 @@
 
 - 1MHA. One Month Hundred App. 
 - Examples and Kits for Main Service. 
+- Index Q&A
+  - https://www.icloud.com/numbers/01bT1ZT_bO1_NXSSUJi5ZBYaA#Map_of_iPhoneAppMaking
 
 <br> 
 <br> 
@@ -107,6 +110,7 @@ struct ContentView: View {
    }
 }
 ```
+<br> 
 
 ## Lecture 2: Learning more about SwiftUI
 
@@ -118,6 +122,7 @@ struct ContentView: View {
 
 . all the remains space
 
+<br>
 
 ## Lecture 3: MVVM
 
@@ -269,10 +274,8 @@ Language Reference
 - https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html
 
 <br> 
-<br> 
 
 ## Lecture 4: Memorize Game Logic
-
 
 [ObservableObject] Protocol and [@Published]
 
@@ -340,8 +343,8 @@ Practice 1MHA
 - Practice Day3 220512
 - Practice Day4 220513 Standford Lecture 4
    - Impressive 3: Structure Understanding, Making App
-   - Core: `_`, `$0 > $1`, 
-   - Q: More Fast Follower
+   - Core: `_`,  `$0>$1`, override func, enum (a given raw value, and rest in order), Class, Structure. 
+   - Q: More Fast Follower (14min, 50min) 
    - Review: 
    - Reflect: 
    - Improve: 
@@ -360,5 +363,7 @@ Practice 1MHA
 7. Swift, KR, https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
 8. HJ Song BG Lee, Making iPhone using Swift (easyspub, 2022)
 
+<br> 
+
 ## License
-**Then** is under MIT license. See the [LICENSE](LICENSE) file for more info.
+Above is under MIT license. See the [LICENSE](LICENSE) file for more info.
