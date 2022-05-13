@@ -23,7 +23,7 @@
 
 * [3.1. Stanford Lecture](#31-Stanford-Lecture)
 
-* [3.2. Swift.org](#32-Swift-org)
+* [3.2. Swift.org](#32-Swiftorg)
 
   * [Sub-heading](##sub-heading)
 
