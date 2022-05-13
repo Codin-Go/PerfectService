@@ -4,16 +4,20 @@
 
 - Log of Study, Apply, Reflect
 
+<br> 
+
 
 ## Table of Contents
 
 [Objective](#Objective)
 
-[About Me and this Repo (한글)](#about-me-and-this-repo)
+[Chapter 1. Service]
 
-[About](#about)
+[Chapter 2. Example]
 
-[About]()
+[Chapter 3. Language] 
+
+
 
 - [Example 1 Heading](###Example%201%20Heading)
 
@@ -40,25 +44,6 @@ Example of heading with space
 . whole . (readable, simple, short,
 
 . Model . (MVVM Model-View-VieModel,
-
-
-<details open>
-
-  <summary>click to collapse</summary>
-
-  this one starts expanded because of the "open"
-
-</details>
-
-
-<details>
-<summary>
-  
-# Header
-</summary>
-<p>
-</details>
-
 
 
 
