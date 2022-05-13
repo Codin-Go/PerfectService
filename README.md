@@ -21,6 +21,9 @@
 
 [Chapter 3. Language](#Chapter-3-Language)
 
+- [3.1. StanFord Lecture](##31STL)
+- [3.2. Swift.org]
+
 [Chapter 4. Today](#Chapter-4-Today)
 
 [Reference](##Reference)
@@ -69,6 +72,8 @@
 <br> 
 ﻿
 # Chapter 3 Language
+
+## 31STL
 
 ## Lecture : What we can learn?
 
