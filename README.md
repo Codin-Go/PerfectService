@@ -339,11 +339,12 @@ Practice 1MHA
 - Practice Day2 220511
 - Practice Day3 220512
 - Practice Day4 220513 Standford Lecture 4
-   - Impressive 3 : Structure Understanding, Making App
-   - Core : _, 
-   - Review : 
-   - Reflect : 
-   - Improve : 
+   - Impressive 3: Structure Understanding, Making App
+   - Core: `_`, `$0 > $1`, 
+   - Q: More Fast Follower
+   - Review: 
+   - Reflect: 
+   - Improve: 
 
 
 <br> 
