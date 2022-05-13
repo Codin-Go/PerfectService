@@ -2,8 +2,10 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 
-- Log of Study, Apply, Reflect
-- Codin Go
+- 1Y1M, How Can We Make 1 Million Dollar in 1 Year?
+- 1YTM, Service 10 Million Dollar in 1 Year. How Can We Make It?  
+- Codin Go. Log of Study, Apply, Reflect
+
 
 <br> 
 
