@@ -18,6 +18,9 @@ Chapter 2. Example
 
 [Chapter 3. Language](#Chapter-3-Language)
 
+[Chapter 4. Today](#Chapter-4-Today)
+
+Chapter 5. Curriculum
 
 
 # Objective
@@ -189,6 +192,15 @@ enum (enumeration)
 ..Recursive Enumerations (indirect enum)
 
 
+# Chapter 4 Today
+Base Day1
+Base Day2 
+Review Day1 
+Review Day2 
+Practice Day1 220510 
+Practice Day2 220511
+Practice Day3 220512
+Practice Day4 220513 Standford Lecture 4
  
 ## Reference 
 1. Standford, Paul Hegarty CS193p (Stanford, Spring 2021), https://cs193p.sites.stanford.edu
@@ -198,10 +210,6 @@ enum (enumeration)
 5. Apple, symbols, developer.apple.com/sf-symbols
 6. sh9404, MVVM, https://lsh424.tistory.com/68
 7. Swift, KR, https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
-
-
-﻿
- 
 
 ## License
 **Then** is under MIT license. See the [LICENSE](LICENSE) file for more info.
