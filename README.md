@@ -193,13 +193,13 @@ enum (enumeration)
 
 
 # Chapter 4 Today
-Base Day1
-Base Day2 
-Review Day1 
-Review Day2 
-Practice Day1 220510 
-Practice Day2 220511
-Practice Day3 220512
+Base Day1 <br>
+Base Day2  <br>
+Review Day1  <br>
+Review Day2  <br>
+Practice Day1 220510 <br> 
+Practice Day2 220511 <br>
+Practice Day3 220512 <br>
 Practice Day4 220513 Standford Lecture 4
  
 ## Reference 
