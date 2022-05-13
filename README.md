@@ -190,7 +190,8 @@ A Swift Tour <br>
 - Enumerations and Structures
 - Protocols and Extensions
 - Error Handling
-- Generics 
+- Generics
+- https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 
 API Design Guidelines <br> 
 - Fundamentals
@@ -203,6 +204,7 @@ API Design Guidelines <br>
   - Parameters
   - Argument Labels
 - Special Instructions 
+- https://www.swift.org/documentation/api-design-guidelines/
 
 The Basics
 - Constants and Variables
@@ -218,7 +220,8 @@ The Basics
 - Tuples
 - Optionals
 - Error Handling
-- Assertions and Preconditions 
+- Assertions and Preconditions
+- https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html 
 
 
 <br> 
