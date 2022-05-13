@@ -21,9 +21,9 @@
 
 [Chapter 3. Language](#Chapter-3-Language)
 
-* [3.1. Stanford Lecture](#s31-Stanford-Lecture)
+* [3.1. Stanford Lecture](#31-Stanford-Lecture)
 
-* [3.2. Swift.org](#s32)
+* [3.2. Swift.org](#32-Swift-org)
 
   * [Sub-heading](##sub-heading)
 
@@ -39,9 +39,9 @@
 
 ## sub-heading
 
-## s3.1 Stanford Lecture
+## 3.1 Stanford Lecture
 
-## s32
+## 3.2 Swift.org 
 
 
 # Objective
