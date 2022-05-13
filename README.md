@@ -21,7 +21,7 @@
 
 [Chapter 3. Language](#Chapter-3-Language)
 
-* [3.1. StanFord Lecture](#s31)
+* [3.1. StanFord Lecture](#s3.1)
 
 * [3.2. Swift.org](#s32)
 
@@ -39,7 +39,7 @@
 
 ## sub-heading
 
-## s31
+## s3.1
 
 ## s32
 
