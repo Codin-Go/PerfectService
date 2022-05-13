@@ -59,6 +59,33 @@ Example of heading with space
 <p>
 </details>
 
+
+
+
+
+<details>
+<summary>
+# Lecture : What we can learn?
+</summary>
+<p>
+
+. Game . TapGesture . (RoundedRectangle, emoji)
+
+. struct . (View, some, body, ZStack HStack, Bool, @State, Array, ForEach, \.self, spacer, padding, systemName, LazyVGrid, GridItem, aspectRatio, ScrollView,
+
+. meaning . (Option + Click, 0..<6
+
+. word . (immutable, snippet, infer,
+
+. whole . (readable, simple, short,
+
+. Model . (MVVM Model-View-VieModel,
+
+﻿  
+</details>
+
+
+
 ﻿
 
 # About Me and this Repo
