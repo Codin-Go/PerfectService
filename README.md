@@ -25,8 +25,6 @@
 
 * [3.2. Swift.org](#32-Swiftorg)
 
-  * [Sub-heading](##sub-heading)
-
 
 [Chapter 4. Today](#Chapter-4-Today)
 
@@ -37,11 +35,7 @@
 <br> 
 <br> 
 
-## sub-heading
 
-## 3.1 Stanford Lecture
-
-## 3.2 Swift.org 
 
 
 # Objective
@@ -84,6 +78,8 @@
 ﻿
 
 # Chapter 3 Language
+
+## 3.1 Stanford Lecture
 
 ## Lecture : What we can learn?
 
@@ -181,6 +177,26 @@ static func:
 
 
 ![](https://velog.velcdn.com/images%2Fsunnysideup%2Fpost%2F144a3119-e00f-4361-834b-f3c96b53d0d2%2FScreen%20Shot%202021-09-27%20at%2010.00.47%20PM.png)
+
+<br> 
+
+## 3.2 Swift.org 
+
+A Swift Tour <br> 
+- Simple Value
+- Control Flow
+- Functions and Closures
+- Objects and Classes
+- Enumerations and Structures
+- Protocols and Extensions
+- Error Handling
+- Generics 
+
+API Design Guidelines <br> 
+- Fundamentals
+- Naming
+-- Promote Clear Usage
+
 
 
 
