@@ -6,7 +6,9 @@
 
 
 ## Table of Contents
-<br>
+
+[Objective](#Objective)
+
 [About Me and this Repo (한글)](#about-me-and-this-repo)
 
 [About](#about)
@@ -25,11 +27,40 @@ Example of heading with space
 <br>
 
 
+# Lecture : What we can learn?
+
+. Game . TapGesture . (RoundedRectangle, emoji)
+
+. struct . (View, some, body, ZStack HStack, Bool, @State, Array, ForEach, \.self, spacer, padding, systemName, LazyVGrid, GridItem, aspectRatio, ScrollView,
+
+. meaning . (Option + Click, 0..<6
+
+. word . (immutable, snippet, infer,
+
+. whole . (readable, simple, short,
+
+. Model . (MVVM Model-View-VieModel,
+
+
+﻿
 
 # About Me and this Repo
 - 1
 
+# Objective 
 
+
+.Service.App
+
+..SeeCode
+
+...Standford
+
+....SeeCode
+
+....ShareSummary
+
+﻿
 
 ## Reference 
 1. Standford, [cs193p site by Stanford](https://cs193p.sites.stanford.edu)
