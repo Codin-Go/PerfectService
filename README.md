@@ -195,7 +195,7 @@ A Swift Tour <br>
 API Design Guidelines <br> 
 - Fundamentals
 - Naming
--- Promote Clear Usage
+  - Promote Clear Usage
 
 
 
