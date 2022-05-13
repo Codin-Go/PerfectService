@@ -189,16 +189,6 @@ enum (enumeration)
 
 
 
-.ref.
-
-* https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
-
-* https://www.google.com/search?client=safari&rls=en&q=%EC%9E%AC%EA%B7%80+%EB%9C%BB&ie=UTF-8&oe=UTF-8&safari_group=9
-
-
-﻿
-
-
  
 ## Reference 
 1. Standford, [cs193p site by Stanford](https://cs193p.sites.stanford.edu)
