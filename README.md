@@ -341,14 +341,14 @@ Practice 1MHA
 - Practice Day1 220510  
 - Practice Day2 220511
 - Practice Day3 220512
-- Practice Day4 220513 Standford Lecture 4
-   - Impressive 3: Structure Understanding, Making App
+- Practice Day4 220513 Standford Lecture 4 (o)
+   - Impressive 3: Structure Understanding, Making App One Step More, Amazing Structure Managing using Markdown.
    - Core: `_`,  `$0>$1`, override func, enum (a given raw value, and rest in order), Class, Structure. 
-   - Q: More Fast Follower (14min, 50min) 
-   - Review: 
-   - Reflect: 
-   - Improve: 
-
+   - Q: More Fast Follower? 
+   - Review: MVVM, Assignment1 on swiftorg (Object Class, Struct, Enum, )
+   - Reflect: Side -> Core 
+   - Improve: 14min, 50min, Target Time, Dig in core first. 
+- Practice Day5 220514 
 
 <br> 
 <br> 
