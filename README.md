@@ -24,7 +24,7 @@
 [3.1. StanFord Lecture]
 [3.2. Swift.org]
 
-  * [Sub-heading](#sub-heading)
+  * [Sub-heading](##sub-heading)
 
 
 [Chapter 4. Today](#Chapter-4-Today)
@@ -77,7 +77,7 @@
 
 # Chapter 3 Language
 
-# sub-heading
+## sub-heading
 
 
 ## Lecture : What we can learn?
