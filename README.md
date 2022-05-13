@@ -2,8 +2,8 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 
-- 1Y1M, How Can We Make 1 Million Dollar in 1 Year?
-- 1YTM, Service 10 Million Dollar in 1 Year. How Can We Make It?  
+- 1Y1M, In 1 Year, How Can We Make 1 Million Dollar?
+- 1YTM, In 1 Year, Service 10 Million Dollar. How Can We Make It?  
 - Codin Go. Log of Study, Apply, Reflect
 
 
