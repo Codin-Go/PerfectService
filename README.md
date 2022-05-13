@@ -20,7 +20,7 @@ Chapter 2. Example
 
 
 
-# Objective 
+# Objective
 .Service.App <br> 
 ..SeeCode <br> 
 ...Standford <br> 
@@ -36,7 +36,6 @@ Chapter 2. Example
 
 
 ﻿
- 
 # Chapter 3 Language
 
 ## Lecture : What we can learn?
