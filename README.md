@@ -187,6 +187,7 @@ enum (enumeration)
 
 ..Recursive Enumerations (indirect enum)
 
+![](https://images.velog.io/images/sunnysideup/post/80b54ce3-dbe7-4ff6-a2b4-3d26993382a2/Stanford-CS193p-Spring-2016-Lecture12-Slides1.jpg)
 
 
  
