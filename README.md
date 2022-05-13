@@ -24,7 +24,7 @@ Chapter 2. Example
 
 [Reference](##Reference)
 
-License(##License)
+[License](##License)
 
 <br> 
 <br> 
@@ -209,7 +209,7 @@ Practice Day2 220511 <br>
 Practice Day3 220512 <br>
 Practice Day4 220513 Standford Lecture 4
 
-## Reference 
+## Reference
 1. Standford, Paul Hegarty CS193p (Stanford, Spring 2021), https://cs193p.sites.stanford.edu
 2. Skkimeo, https://github.com/skkimeo/
 3. devxoul, https://github.com/devxoul/
