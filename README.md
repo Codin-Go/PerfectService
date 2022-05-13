@@ -218,6 +218,7 @@ Practice Day4 220513 Standford Lecture 4
 5. Apple, symbols, developer.apple.com/sf-symbols
 6. sh9404, MVVM, https://lsh424.tistory.com/68
 7. Swift, KR, https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
+8. HJ Song BG Lee, Making iPhone using Swift (easyspub, 2022)
 
 ## License
 **Then** is under MIT license. See the [LICENSE](LICENSE) file for more info.
