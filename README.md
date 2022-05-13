@@ -133,19 +133,18 @@ static func:
 . global function. share the variable with other all object
 
 ﻿
- 
-https://velog.velcdn.com/images%2Fsunnysideup%2Fpost%2F144a3119-e00f-4361-834b-f3c96b53d0d2%2FScreen%20Shot%202021-09-27%20at%2010.00.47%20PM.png
 
-## L
-Lecture 4: Memorize Game Logic
+!
+   [](https://velog.velcdn.com/images%2Fsunnysideup%2Fpost%2F144a3119-e00f-4361-834b-f3c96b53d0d2%2FScreen%20Shot%202021-09-27%20at%2010.00.47%20PM.png)
 
+## Lecture 4: Memorize Game Logic
 
 
 [ObservableObject] Protocol and [@Published]
 
 .When Model Changed, Publish(return and fresh)
 
-
+```swift
 class EmojiMemoryGame: ObservableObject {
     ...
     
@@ -153,13 +152,14 @@ class EmojiMemoryGame: ObservableObject {
     
     ...
 }
-내용을 입력하세요.
+```
+
 
 @ObservedObject
 
 .When [viewModel] is [published], rebuild [body]
 
-
+```swift
 struct ContentView: View {
     @ObservedObject var viewModel: EmojiMemoryGame
     
@@ -167,7 +167,8 @@ struct ContentView: View {
         ...
     }
 }
-내용을 입력하세요.
+```
+
 enum (enumeration)
 
 .overview : dont need value
@@ -193,12 +194,6 @@ enum (enumeration)
 .. https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
 
 .. https://www.google.com/search?client=safari&rls=en&q=%EC%9E%AC%EA%B7%80+%EB%9C%BB&ie=UTF-8&oe=UTF-8&safari_group=9
-
-
-재귀 뜻 - Google Search
-재귀란? (개념 이해하기) | 재귀 알고리즘 | Khan Academy - 칸아카데미 ko.khanacademy.org › 컴퓨팅 › 컴퓨터과학 › 알고리즘 › 재귀 알고리즘 이처럼 어떤 문제를 해결하기 위해 알고리즘을 설계할 때 동일한 문제의 조금 더 작은 경우를 해결함으로써 그 문제를 해결하는 것입니다. 문제가 간단해져서 바로 풀 수 ... 재귀함수 - 나무위키 namu.wiki › 재귀함수 Jan 13, 2022 · 재귀함수(再歸函數)는 정의 단계에서 자신을 재참조하는 함수를 뜻한다. 어떤 사건이 자기 자신을 포함하고 다시 자...
-
-www.google.com
 
 
 ﻿
