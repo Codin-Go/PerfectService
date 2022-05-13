@@ -47,7 +47,16 @@ Chapter 2. Example
 . whole . (readable, simple, short, <br> 
 . Model . (MVVM Model-View-VieModel, <br> 
 
+## Lecture : What we can learn?
 
+
+[View]:
+
+. is: On Screen, Get Input and Return Output
+
+. types: [simple view], [combine view], bag view]
+
+﻿
 
  
 ## Reference 
