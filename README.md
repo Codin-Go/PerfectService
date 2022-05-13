@@ -181,6 +181,7 @@ static func:
 <br> 
 
 ## 3.2 Swift.org 
+- https://www.swift.org
 
 A Swift Tour <br> 
 - Simple Value
@@ -223,6 +224,48 @@ The Basics
 - Assertions and Preconditions
 - https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html 
 
+Language Guide
+- The Basics
+- Basic Operators
+- Strings and Characters
+- Collection Types
+- Control Flow 
+- Functions
+- Closures
+- Enumerations
+- Structures and Classes
+- Properties
+- Methods
+- Subscripts
+- Inheritance
+- Initialization
+- Deinitialization
+- Optional Chaining
+- Error Handling
+- Concurrency
+- Type Casting
+- Nested Types
+- Extensions
+- Protocols
+- Generics
+- Opaque Types
+- Automatic Reference Counting
+- Memory Safety
+- Access Control
+- Advanced Operators
+- https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html 
+
+Language Reference 
+- Lexical Structure
+- Types
+- Expressions
+- Statements
+- Declarations
+- Attributes
+- Patterns
+- Generic Parameters and Arguments
+- Summary of the Grammar 
+- https://docs.swift.org/swift-book/ReferenceManual/AboutTheLanguageReference.html
 
 <br> 
 <br> 
