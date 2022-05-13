@@ -37,6 +37,13 @@
 <br> 
 <br> 
 
+## sub-heading
+
+## s31
+
+## s32
+
+
 # Objective
 .Service.App <br> 
 ..SeeCode <br> 
@@ -77,13 +84,6 @@
 ﻿
 
 # Chapter 3 Language
-
-## sub-heading
-
-##s31
-
-##s32
-
 
 ## Lecture : What we can learn?
 
