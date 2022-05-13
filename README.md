@@ -191,10 +191,17 @@ enum (enumeration)
 
  
 ## Reference 
-1. Standford, [cs193p site by Stanford](https://cs193p.sites.stanford.edu)
+1. Standford, Paul Hegarty CS193p (Stanford, Spring 2021), https://cs193p.sites.stanford.edu
 2. Skkimeo, https://github.com/skkimeo/
 3. devxoul, https://github.com/devxoul/
+4. Sunny, Note of CS193p, https://velog.io/@sunnysideup/Stanford-CS193p-Spring-2021
+5. Apple, symbols, developer.apple.com/sf-symbols
+6. sh9404, MVVM, https://lsh424.tistory.com/68
+7. Swift, KR, https://bbiguduk.gitbook.io/swift/language-guide-1/enumerations
 
+
+﻿
+ 
 
 ## License
 **Then** is under MIT license. See the [LICENSE](LICENSE) file for more info.
