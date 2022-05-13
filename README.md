@@ -3,6 +3,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 
 - Log of Study, Apply, Reflect
+- Codin Go
 
 <br> 
 
@@ -19,7 +20,6 @@ Chapter 2. Example
 
 
 
-
 ﻿
 
 # Objective 
@@ -28,6 +28,13 @@ Chapter 2. Example
 ...Standford <br> 
 ....SeeCode <br> 
 ....ShareSummary <br> 
+
+.1MHA <br> 
+.One Month Hundred App <br>
+..App
+..Web
+..Lecture
+..Book
 
 
 ﻿
