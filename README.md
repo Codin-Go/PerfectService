@@ -54,9 +54,15 @@ Chapter 2. Example
 
 . is: On Screen, Get Input and Return Output
 
-. types: [simple view], [combine view], bag view]
+. types: [simple view], [combine view], [bag view]
 
-﻿
+```swift 
+   struct ContentView: View {
+        var body: some View {
+            Text("Hello World!")
+        }
+    }
+```
 
  
 ## Reference 
