@@ -42,7 +42,10 @@
 ..App <br>
 ..Web <br>
 ..Lecture <br>
-..Book <br>
+..Book 
+
+<br> 
+<br> 
 
 # Chapter 1 Service 
 
@@ -54,12 +57,16 @@
 6. NAVER App, Web
 7. KAKAO App, Web
 
+<br> 
+<br> 
 
 # Chapter 2 Kits 
 
 - 1MHA. One Month Hundred App. 
 - Examples and Kits for Main Service. 
 
+<br> 
+<br> 
 ﻿
 # Chapter 3 Language
 
@@ -162,6 +169,8 @@ static func:
 
 
 
+<br> 
+<br> 
 
 ## Lecture 4: Memorize Game Logic
 
@@ -214,6 +223,8 @@ enum (enumeration)
 ..Recursive Enumerations (indirect enum)
 
 <br> 
+<br> 
+
 
 # Chapter 4 Today
 Base Day1 <br>
@@ -224,6 +235,9 @@ Practice Day1 220510 <br>
 Practice Day2 220511 <br>
 Practice Day3 220512 <br>
 Practice Day4 220513 Standford Lecture 4
+
+<br> 
+<br> 
 
 ## Reference
 1. Standford, Paul Hegarty CS193p (Stanford, Spring 2021), https://cs193p.sites.stanford.edu
