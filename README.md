@@ -22,6 +22,9 @@ Chapter 2. Example
 
 [Chapter 4. Today](#Chapter-4-Today)
 
+[Reference](##Reference)
+
+License(##License)
 
 <br> 
 <br> 
