@@ -29,10 +29,10 @@ Chapter 2. Example
 
 .1MHA <br> 
 .One Month Hundred App <br>
-..App
-..Web
-..Lecture
-..Book
+..App <br>
+..Web <br>
+..Lecture <br>
+..Book <br>
 
 
 ﻿
@@ -78,6 +78,7 @@ struct ContentView: View {
 ## Lecture 3: MVVM
 
 [_] :
+
 . in function, underbar, don't have name
 
 ```swift
@@ -87,6 +88,51 @@ func multiply(_ operand: Int, by otherOperand: Int) -> Int {
 multiply(5, by: 6) 
 ```
 
+[init] :
+
+. struct and class
+
+. initializers
+
+```swift 
+struct RoundedRectangle { 
+  init(cornerRadius: CGFloat) {
+}
+```
+
+struct x class :
+
+. stract : value type, coppied, Functional programming, No inheritance, Free init All vars, Mutability on explicitly state, Seen so far is a struct (except view, protocol), <br> 
+
+. class : reference type, pointer, Object-oriented programming, Inheritance, Free init No vars, Mutable, MVVM is a class (UIKit (old style iOS) is class-based)
+
+
+Generics :
+
+. "don't care" type
+
+
+MVVM.component:
+
+. Model: Data capsulation
+
+. View : UI(Control..), Layout(Visual..)
+
+. ViewModel: Model Data process to show on View
+
+
+MVVM.proscons:
+
+.pros: on View no UIKit, independent test on UI, less strees on Controller
+
+.cons: binding library or lots of code.
+
+
+static func:
+
+. global function. share the variable with other all object
+
+﻿
 
  
 ## Reference 
