@@ -42,6 +42,14 @@ Example of heading with space
 . Model . (MVVM Model-View-VieModel,
 
 
+<details open>
+
+  <summary>click to collapse</summary>
+
+  this one starts expanded because of the "open"
+
+</details>
+
 ﻿
 
 # About Me and this Repo
@@ -61,6 +69,7 @@ Example of heading with space
 ....ShareSummary
 
 ﻿
+ 
 
 ## Reference 
 1. Standford, [cs193p site by Stanford](https://cs193p.sites.stanford.edu)
