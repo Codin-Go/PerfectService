@@ -47,8 +47,8 @@ Chapter 2. Example
 . whole . (readable, simple, short, <br> 
 . Model . (MVVM Model-View-VieModel, <br> 
 
-## Lecture : What we can learn?
 
+## Lecture 1: Getting started with SwiftUI
 
 [View]:
 
@@ -63,6 +63,30 @@ struct ContentView: View {
    }
 }
 ```
+
+## Lecture 2: Learning more about SwiftUI
+
+[@State] :
+
+. like Pointer. Pointing Memory (Same). even memory changes.
+
+[#spacer()] :
+
+. all the remains space
+
+
+## Lecture 3: MVVM
+
+[_] :
+. in function, underbar, don't have name
+
+```swift
+func multiply(_ operand: Int, by otherOperand: Int) -> Int {
+    return operand*operOperand
+}
+multiply(5, by: 6) 
+```
+
 
  
 ## Reference 
