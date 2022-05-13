@@ -134,8 +134,12 @@ static func:
 
 ﻿
 
-!
-   [](https://velog.velcdn.com/images%2Fsunnysideup%2Fpost%2F144a3119-e00f-4361-834b-f3c96b53d0d2%2FScreen%20Shot%202021-09-27%20at%2010.00.47%20PM.png)
+![](https://velog.velcdn.com/images%2Fsunnysideup%2Fpost%2F144a3119-e00f-4361-834b-f3c96b53d0d2%2FScreen%20Shot%202021-09-27%20at%2010.00.47%20PM.png)
+
+
+![](https://images.velog.io/images/sunnysideup/post/80b54ce3-dbe7-4ff6-a2b4-3d26993382a2/Stanford-CS193p-Spring-2016-Lecture12-Slides1.jpg)
+
+
 
 ## Lecture 4: Memorize Game Logic
 
@@ -186,8 +190,6 @@ enum (enumeration)
 ..initializing from a Raw Value
 
 ..Recursive Enumerations (indirect enum)
-
-![](https://images.velog.io/images/sunnysideup/post/80b54ce3-dbe7-4ff6-a2b4-3d26993382a2/Stanford-CS193p-Spring-2016-Lecture12-Slides1.jpg)
 
 
  
