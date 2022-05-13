@@ -21,8 +21,9 @@
 
 [Chapter 3. Language](#Chapter-3-Language)
 
-[3.1. StanFord Lecture]
-[3.2. Swift.org]
+* [3.1. StanFord Lecture](##s31)
+
+* [3.2. Swift.org](##s32)
 
   * [Sub-heading](##sub-heading)
 
@@ -78,6 +79,10 @@
 # Chapter 3 Language
 
 ## sub-heading
+
+##s31
+
+##s32
 
 
 ## Lecture : What we can learn?
