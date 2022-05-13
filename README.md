@@ -15,7 +15,7 @@ Chapter 1. Service
 
 Chapter 2. Example
 
-[Chapter 3. Language](#Chapter3Language)
+[Chapter 3. Language](#Chapter-Language)
 
 
 
@@ -91,7 +91,7 @@ Example of heading with space
 
 ﻿
  
-# Chapter 3Language
+# Chapter Language
 - Hello
  
 ## Reference 
