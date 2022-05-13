@@ -20,8 +20,6 @@ Chapter 2. Example
 
 
 
-﻿
-
 # Objective 
 .Service.App <br> 
 ..SeeCode <br> 
