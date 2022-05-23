@@ -1,8 +1,8 @@
 # PerfectService
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
-![1M1H.app](https://img.shields.io/badge/1M1H.app-0.1-blue.svg)
-![1Y1M.dollar](https://img.shields.io/badge/1Y1M.dollar-0.1-red.svg)
+![1m1h.App](https://img.shields.io/badge/1m1h.App-0.1-blue.svg)
+![1y1m.Dollar](https://img.shields.io/badge/1y1m.Dollar-0.1-red.svg)
 
 
 - Best Expert, Development x Business  
