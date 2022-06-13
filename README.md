@@ -1,4 +1,4 @@
-# PerfectService
+# PerfectService (Learning Log) 
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![1m1h.App](https://img.shields.io/badge/1m1h.App-0.1-blue.svg)
